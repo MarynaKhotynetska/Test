@@ -1,5 +1,5 @@
 public class MyFirstProgram {
   public static void main (String [] args){
-     System.out.println ("Hello,world!SDFDSSF"); 
+     System.out.println ("Hello,world! Marynka - developer"); 
 }
 }
