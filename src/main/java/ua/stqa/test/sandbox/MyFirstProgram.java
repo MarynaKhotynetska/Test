@@ -5,9 +5,6 @@ public class MyFirstProgram {
         System.out.println("Hello,world! Marynka - developer");
     }
 
-
-
-
-
-    public static void vld(){}
+    public static void vld() {
+    }
 }
